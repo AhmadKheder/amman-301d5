@@ -36,4 +36,9 @@ code {
 
 pre {
   white-space: pre-wrap;
+ 
 }
+pre code{
+  font-size: larger;
+  font-weight: 500;
+  }
