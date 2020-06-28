@@ -40,7 +40,7 @@ As a result of completing Code 301, students will:
 Read#  | Link
 -----------|--------------
 Read 01     | [Link 1](https://ahmadkheder.github.io/amman-301d5/reads/read01)
-Read 2     | [Link 2]()
+Read 2     | [Link 2](https://ahmadkheder.github.io/amman-301d5/reads/read02)
 Read 3     | [Link 3]()
 Read 4     | [Link 4]()
 Read 5     | [Link 5]()
